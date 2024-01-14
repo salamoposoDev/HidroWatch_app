@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "878392926146",
+    "firebase_url": "https://cctv-hidroponik-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cctv-hidroponik",
+    "storage_bucket": "cctv-hidroponik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878392926146:android:24e37dc505f9f8c0e1005b",
+        "android_client_info": {
+          "package_name": "com.example.cctv_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAioxXJbMLDZtdcllmOFDkO3b-p5xSyVZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
